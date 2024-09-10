@@ -27,4 +27,4 @@ Our vision to create an university mobile platform for all Universities.
  
   Project head: Nikhil Kilivayil(nikhilkilivayil@gmail.com)
   
-
+changes made
